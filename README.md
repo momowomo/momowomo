@@ -30,6 +30,6 @@ CSS
   border: 2px solid #CCC;
   padding: 7px 5px;
   background-color: white;
-  // Admittedly, I use up a lot of my time here trying to create the perfect component for my web apps
 }
+/* Admittedly, I use up a lot of my time here obsessing over creating the perfect component */
 ```
