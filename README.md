@@ -1,5 +1,5 @@
-### Heya there!
-I'm Nik, a junior developer with a lot to learn so I mostly come here to experiment with new things as I learn them. Hoping to make this readme fancier as I go :3 
+## Heya there!
+I'm a junior developer with a lot to learn so I mostly come here to experiment with new things as I learn them. Hoping to make this readme fancier as I go :3 
 
 ### :open_file_folder: Projects
 The following are details of all the projects I'm working on:
