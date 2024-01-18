@@ -6,6 +6,6 @@ The following are details of all the projects I'm working on:
 
 | Project | Type | Phase | Tech Stack |
 | ------- | ---- | :------: | ---------- |
-| dotnet-clean-architecture | Template | ![Static Badge](https://img.shields.io/badge/planning-gray) | `.NET Core Web API` `C#` |
-nextjs-clean-architecture | Template | ![Static Badge](https://img.shields.io/badge/planning-gray) | `Next.js` `TypeScript` `Tailwind CSS` |
-portfolio | Fullstack Web App | ![Static Badge](https://img.shields.io/badge/planning-gray) | `.NET Core Web API` `Next.js` `TypeScript` `SQL` |
+| dotnet-clean-architecture | Template | ![Static Badge](https://img.shields.io/badge/research-%234c94e2) | `.NET Core Web API` `C#` |
+nextjs-clean-architecture | Template | ![Static Badge](https://img.shields.io/badge/research-%234c94e2) | `Next.js` `TypeScript` `Tailwind CSS` |
+portfolio | Fullstack Web App | ![Static Badge](https://img.shields.io/badge/pending-%23db82c9) | `.NET Core Web API` `Next.js` `TypeScript` `SQL` |
