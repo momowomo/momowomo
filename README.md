@@ -24,7 +24,8 @@ HTML
 ```
 
 CSS
-```
+
+```CSS
 .custom_button {
   border: 2px solid #CCC;
   padding: 7px 5px;
