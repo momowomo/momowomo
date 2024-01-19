@@ -6,14 +6,14 @@ Here lies the details of all the projects I'm working on:
 
 | Project | Type | Phase | Tech Stack |
 | ------- | ---- | :------: | ---------- |
-| dotnet-clean-architecture | Template | ![Static Badge](https://img.shields.io/badge/research-%234c94e2) | `.NET Core Web API` `C#` |
-nextjs-clean-architecture | Template | ![Static Badge](https://img.shields.io/badge/research-%234c94e2) | `Next.js` `TypeScript` `Tailwind CSS` |
-portfolio | Fullstack Web App | ![Static Badge](https://img.shields.io/badge/pending-%23db82c9) | `.NET Core Web API` `C#` `Next.js` `TypeScript` `Tailwind CSS` `SQL` |
+| domain-driven-design | Template | ![Static Badge](https://img.shields.io/badge/research-%234c94e2) | `.NET Core Web API` `C#` |
+| nextjs-clean-architecture | Template | ![Static Badge](https://img.shields.io/badge/research-%234c94e2) | `Next.js` `TypeScript` `Tailwind CSS` |
+| portfolio | Fullstack Web App | ![Static Badge](https://img.shields.io/badge/pending-%23db82c9) | `.NET Core Web API` `C#` `Next.js` `TypeScript` `Tailwind CSS` `SQL` |
 
 ### :cyclone: Technology Stack
 This is where I specify the languages, libraries, databases (etc.) that I've worked with so far!
 
-HTML
+##### HTML
 
 ```HTML
 <html>
@@ -23,7 +23,7 @@ HTML
 </html>
 ```
 
-CSS
+##### CSS
 
 ```CSS
 .custom_button {
